@@ -29,4 +29,4 @@
 
 </div>
 
-<a href="https://portif-lio-carlos-jr.vercel.app/" target="_blank" >  <img  alt="Portifólio Web" align="center" width="450"  src="https://user-images.githubusercontent.com/75333134/182493534-808b260e-9148-47d1-87c8-8634c0293a2c.png"></a> 
+<a href="https://portif-lio-carlos-jr.vercel.app/" target="_blank" >  <img  alt="Portifólio Web" target="_blank" align="center" width="450"  src="https://user-images.githubusercontent.com/75333134/182493534-808b260e-9148-47d1-87c8-8634c0293a2c.png"></a> 
